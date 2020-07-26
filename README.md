@@ -1,4 +1,4 @@
-# king-county-housing-analysis
+# King County Housing Data Analysis
 
 # Introduction
 ## Executive Summary
