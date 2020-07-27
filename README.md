@@ -1,6 +1,5 @@
 # King County Housing 
 
-# Introduction
 ## Executive Summary
 This report provides an analysis and evaluation of the current and prospective housing market in King County, Washington. Methods include data and feature analysis, feature engineering, and linear/polynomial regression analysis. Other calculations involve model assessment and cross validation. All calculations can be found in the associated notebooks. Results of data analyzed produce applicable models in evaluating the sale price of a house in King County based on its identifying factors. 
 
