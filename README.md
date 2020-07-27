@@ -35,7 +35,7 @@ A quick search finds that the provided dataset is incomplete while the original 
 
 To build a foundation of this project, we’ll take this cleaned dataset and plug it into a model against the sale price to see what kind of relationship we’re dealing with. Though the assumptions of linearity is not met by this model, an adjusted R-squared value of 0.696 and mostly statistically significant P-values gives us hope that we’ll be able to explain sales price through regression analysis. 
 
-![title](/misc/scatter-matrix.png) - BASELINE MODEL GRAPH
+![title](/misc/baseline-model.png) - BASELINE MODEL GRAPH
 
 ## EDA and Model-1 - 
 
